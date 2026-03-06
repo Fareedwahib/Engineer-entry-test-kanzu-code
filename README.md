@@ -4,12 +4,6 @@
 
 ---
 
-## 🔗 Live Preview
-
-> _(Add your GitHub Pages / Netlify / Vercel link here)_
-
----
-
 ## 📋 Project Brief
 
 The task required building a fully responsive landing page using **only plain HTML, CSS, and Vanilla JavaScript** — no frameworks, no libraries, no Bootstrap, no Tailwind, no React. All content was derived from the Corecleen Solutions Ltd business profile document, including branding colours, services, contact details, and company information.
